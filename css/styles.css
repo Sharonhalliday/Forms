@@ -1,6 +1,33 @@
-/* #story {
+#letter {
     display: none;
 }
 .btn2{
-    padding-top: 40px;
-} */
+    padding-top: 80px;
+}
+#button{
+    font-size: medium;
+    font-weight: bold;
+}
+#top{
+    padding-left: 350px;
+}
+.card{
+    height: 550px;
+    width:580px ;
+    padding-top: 30px;
+    background-color: rgb(216, 108, 108);
+    color: white;
+}
+#card-edit{
+    padding-top: 50px;
+    padding-left: 350px;
+}
+.address{
+    padding-left: 360px;
+}
+#adjust{
+    padding-left: 30px;
+}
+.adjust2{
+    padding-left: 30px;
+}

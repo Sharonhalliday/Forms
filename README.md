@@ -1,6 +1,6 @@
 >## FORMS
 
-This page is a sample of my Forms project
+This page is a sample of a Forms project
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@ This page is a sample of my Forms project
 
 >## Description
 
-_This is a sample for the main design of a Forms project_
+_This project is a sample of what a Forms project can look like_
 
 >## Setup/Installation Requirements
 * clone this repository to desktop
